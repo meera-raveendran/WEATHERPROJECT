@@ -1,0 +1,114 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+  }
+  .containerdiv {
+    border: 1px solid #7e7d7d;
+    width: 40%;
+    height: 70%;
+    margin-top: 20px;
+    margin-left: 200px;
+    box-shadow: 0px 2px 4px #7e7c7c;
+    padding: 10px;
+    background-color: #bcc2f7;
+  }
+  a {
+    color: #5f5feb;
+    font-size: 17px;
+    font-family: "Open Sans", sans-serif;
+    margin: 10px;
+    text-decoration: none;
+    font-weight: 300;
+    padding: 25px;
+  }
+  .inputCity {
+    padding: 12px;
+    width: 60%;
+    margin: 10px 0 10px 0;
+    font-size: 20px;
+    outline: none;
+    box-shadow: 0px 2px 4px #888888;
+    border: 0.2px solid #efecec;
+  }
+  .inputCity:hover {
+    background-color: #f3efef;
+  }
+  .searchBtn {
+    padding: 17px;
+    font-size: 17px;
+    background-color: #0000ff;
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
+  }
+  .searchBtn:hover {
+    background-color: #5f5feb;
+  }
+  .currentBtn {
+    padding: 17px;
+    font-size: 17px;
+    background-color: #097b1a;
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
+  }
+  .currentBtn:hover {
+    background-color: #085013;
+  }
+  .description {
+    font-family: "Open Sans", sans-serif;
+  }
+  .cloudDiv {
+    padding-bottom: 15px;
+    color: #dd2d77;
+    font-weight: 700;
+  }
+  .descDiv {
+    font-size: 23px;
+    font-weight: 700;
+    color: #dd2d77;
+    margin-bottom: 0;
+  }
+  .barSup {
+    font-size: 35px;
+  }
+  .descList {
+    list-style: none;
+  }
+  .temSup {
+    font-size: 8px;
+    font-weight: 200;
+  }
+  .unitLink {
+    padding-left: 0;
+    margin-left: 0;
+  }
+  .celsiusLink {
+    padding: 0;
+  }
+  .cloudIcon i {
+    font-size: 35px;
+  }
+  .tempNum {
+    font-size: 50px;
+    font-weight: 900;
+  }
+  .percpDiv {
+    font-weight: 600;
+    color: #dd2d77;
+  }
+  .weatherDiv {
+    padding-top: 10px;
+    padding-left: 20px;
+    font-size: 20px;
+  }
+  .temSup {
+    font-size: 40px;
+    font-weight: 300;
+  }
+  .descDate {
+    color: #dd2d77;
+    font-weight: 800;
+  }
+  
