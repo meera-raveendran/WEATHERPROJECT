@@ -111,3 +111,25 @@ a {
   color: #dd2d77;
   font-weight: 800;
 }
+
+footer{
+  display: flex;
+  margin-left: 200px;
+  font-size: 10px;
+  align-items: center;
+  padding-top: 10px;
+}
+
+.footer-desc {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.footerLink {
+  text-decoration: none;
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+}
